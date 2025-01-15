@@ -1,0 +1,1 @@
+delete from SinhVien where Tuoi >22;
